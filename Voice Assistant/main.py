@@ -4,7 +4,6 @@
 from functions import record,speak,hour,search
 import random
 import tkinter as tk
-from tkinter.ttk import *
 
 nasilsinList = ['nasılsın','iyi misin','nasıl gidiyor']
 nasilsinCevap = ['Sağ ol iyiyim','İyiyim','Çok iyiyim']
